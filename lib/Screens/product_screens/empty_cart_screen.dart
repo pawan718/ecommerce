@@ -32,6 +32,7 @@ class EmptyScreen extends StatelessWidget {
             text: 'Your cart is empty',
             size: 24,
           ),
+          const SizedBox(height: 50,),
           const SizedBox(
             height: 30,
           ),

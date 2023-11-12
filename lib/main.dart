@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         theme: ThemeData(),
-        home: const SplashScreen(),
+        home:  SplashScreen(),
       ),
     );
   }
